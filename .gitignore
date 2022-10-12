@@ -1,0 +1,5 @@
+GeneralizedDataFiles/
+GeneralizedOutputDataFiles/
+.classpath
+.project
+bin/
