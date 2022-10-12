@@ -6,10 +6,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
- * 
- */
-
-/**
  * This class can be used to take a series of ARFF files that have the same headers,
  * and combine them all to create separate train/test files for leave one out cross-validation.
  * It also creates one "All" file that contains all combined records.
